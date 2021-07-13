@@ -1,0 +1,2 @@
+# waterpink
+Waterpink - BetterDiscord theme
